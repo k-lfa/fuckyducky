@@ -1,6 +1,6 @@
 # Miscellaneous payload for rubberducky
 
-###Here, you can found :
+### Here, you can found :
 
 - sample of script stager
 - sample of payload dropper (rubber ducky)
@@ -9,13 +9,13 @@
 Of course, for linux and windows !
 
 
-###you must have this 2 github script
+### you must have this 2 github script
 
 https://github.com/hak5darren/USB-Rubber-Ducky
 https://github.com/mame82/duck2spark
 
 
-##How work ? (tutorial in https://k-lfa.info/digispark-hacking/)
+## How work ? (tutorial in https://k-lfa.info/digispark-hacking/)
 
 1. Make your rubberduck payload (in dropper context)
 
