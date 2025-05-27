@@ -2,6 +2,7 @@
 
 ### Here, you can found :
 
+- Release of tools (duck2spark & USB-Rubber-Ducky)
 - sample of script stager
 - sample of payload dropper (rubber ducky)
 - Other things (logger, etc ...)
@@ -9,10 +10,12 @@
 Of course, for linux and windows !
 
 
-### you must have this 2 github script
+### This repo include this 2 github project (keeped because they disappeared)
 
 https://github.com/hak5darren/USB-Rubber-Ducky
 https://github.com/mame82/duck2spark
+
+
 
 
 ## How work ? (tutorial in https://k-lfa.info/digispark-hacking/)
